@@ -56,3 +56,9 @@
 
 <!-- Dark snake -->
 ![GitHub activity graph (dark)](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+
+
+
+<h3 align="left">Activity:</h3>
+
+![Adhiraj's Graph](https://github-readme-activity-graph.vercel.app/graph?username=akathedeveloper&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
