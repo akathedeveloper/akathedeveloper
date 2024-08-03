@@ -1,3 +1,5 @@
+![](assets/Bottom_up.svg)
+
 <h1 align="center">Hi 👋, I'm Adhiraj Singh</h1>
 <h3 align="center">A passionate coder, developer, and a keen learner :)</h3>0
 
