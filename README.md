@@ -1,7 +1,8 @@
 ![Header](./src/header_.png)
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Adhiraj+Singh;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&height=100&font=40&lines=Hi+there+👋,+I+am+Adhiraj+Singh;+I+love+leveraging+tech+to+solve+realworld+complex+problems;+Full+Stack+Developer+proficient+in+React,+Next.js,+Spring+Boot,+Node.js;+Experienced+with+AWS,+Docker,+and+DevOps;+Solved+300%2B+questions+on+LeetCode;+Enthusiast+in+Machine+Learning+and+AI)](https://git.io/typing-svg)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
