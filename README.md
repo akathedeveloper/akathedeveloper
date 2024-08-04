@@ -1,5 +1,3 @@
-![Bottom Up](assets/Bottom_up.svg)
-
 ![Header](./src/header_.png)
 
 <!-- Typing SVG -->
@@ -10,7 +8,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,spring,flask,fastapi,express" />
   </a>
 </p>
 
@@ -38,7 +36,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
   </a>
 </p>
 
