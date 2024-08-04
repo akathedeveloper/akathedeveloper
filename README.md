@@ -47,6 +47,17 @@
 <!-- Green snake -->
 ![GitHub activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
+ <p align="center">
+<a href="https://github.com/akathedeveloper">
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akathedeveloper&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Adhiraj's github stats"/>
+
+</a>
+
+<br/>
+
+</p >
+
 <details open align="center">
   <summary>📈 More Stats</summary>
   <br>
@@ -65,7 +76,7 @@
  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
   </a> 
   
- [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=akathedeveloper&theme=algolia&card_width=1000)](https://github.com/akathedeveloper) </br></br>
+ [![Adhiraj's github streak](https://github-readme-streak-stats.herokuapp.com/?user=akathedeveloper&theme=algolia&card_width=1000)](https://github.com/akathedeveloper) </br></br>
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=akathedeveloper&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/akathedeveloper) </br>
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=akathedeveloper&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/akathedeveloper) 
 </div>
