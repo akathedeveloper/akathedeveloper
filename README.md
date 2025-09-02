@@ -83,6 +83,33 @@
 <!-- Dark snake -->
 ![GitHub activity graph (dark)](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
+## 🏅 My LeetCode Badges
+
+### 🔥 Streak Badges  
+<img src="https://assets.leetcode.com/static_assets/marketing/500.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" height="80" width="80"/> 
+
+### 📅 Annual Badges  
+<img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2025.gif" height="80" width="80"/>
+
+### 🎯 2025 Streak Badges
+<img src="https://assets.leetcode.com/static_assets/others/200.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="80" width="80"/>
+
+### 🎯 2024 Streak Badges
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="80" width="80"/>
+
+### 🎯 2023 Streak Badges
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="80" width="80"/>
+
+---
+
+### 📆 Monthly Badges  
+
+#### 2024  
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" height="80" width="80"/> <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" height="80" width="80"/>
+
+#### 2025  
+<img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/202506.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/202507.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/202508.gif" height="80" width="80"/>
+
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
