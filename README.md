@@ -90,6 +90,7 @@
 
 ### 📅 Annual Badges  
 <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2025.gif" height="80" width="80"/>
+<img src="https://assets.leetcode.com/static_assets/marketing/2025.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2025.gif" height="80" width="80"/>
 
 ### 🎯 2025 Streak Badges
 <img src="https://assets.leetcode.com/static_assets/others/200.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="80" width="80"/>
